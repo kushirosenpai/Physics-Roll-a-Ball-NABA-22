@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 822ae37cac0f90441991f62b695b0551
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Paddle
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Poker
+  - first:
+      1: 100006
+    second: Rest
+  - first:
+      1: 100008
+    second: Wheel
+  - first:
+      4: 400000
+    second: Paddle
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Poker
+  - first:
+      4: 400006
+    second: Rest
+  - first:
+      4: 400008
+    second: Wheel
+  - first:
+      21: 2100000
+    second: Ramps
+  - first:
+      21: 2100002
+    second: Chrome
+  - first:
+      21: 2100004
+    second: Interactables
+  - first:
+      21: 2100006
+    second: Yellow
+  - first:
+      23: 2300000
+    second: Paddle
+  - first:
+      23: 2300002
+    second: Poker
+  - first:
+      23: 2300004
+    second: Rest
+  - first:
+      23: 2300006
+    second: Wheel
+  - first:
+      33: 3300000
+    second: Paddle
+  - first:
+      33: 3300002
+    second: Poker
+  - first:
+      33: 3300004
+    second: Rest
+  - first:
+      33: 3300006
+    second: Wheel
+  - first:
+      43: 4300000
+    second: Wheel
+  - first:
+      43: 4300002
+    second: Paddle
+  - first:
+      43: 4300004
+    second: Poker
+  - first:
+      43: 4300006
+    second: Rest
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: bf317308fa6efa6469cd9ba62cdafb75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interactables
+    second: {fileID: 2100000, guid: f0cfe1bc5c277db4ea77041b6141e984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ramps
+    second: {fileID: 2100000, guid: 20d0869768e8d83438c3a6904a2f8e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: 6ac6e42b87ab36c44a8534570e7d6ff0, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
